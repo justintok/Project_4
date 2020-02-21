@@ -10,8 +10,12 @@
           <option name="url" value="https://github.com/justintok/Project_4" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ajnatzic/AmazingTowerDefense.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Jason\Desktop\cis163" />
+    <option name="cloneParentDir" value="C:\Users\Jason\Desktop" />
   </component>
 </application>
